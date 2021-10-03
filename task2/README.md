@@ -40,7 +40,7 @@ Please add an "x" in the `[ ]` preceding the correct choice(s) for each question
 
    - [ ] `this`
    - [ ] `new`
-   - [ ] `instanceof`
+   - [ ] `instance`
    - [ ] `delete`
 
 6. When does a function name become optional?
